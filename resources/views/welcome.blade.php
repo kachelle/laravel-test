@@ -79,7 +79,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <p>
+                        This is Laravel 5
+                    </p>
                 </div>
 
                 <div class="links">
